@@ -1,0 +1,133 @@
+int main() {
+
+    float x;
+    int y;
+    float a, b, c, d;
+    char letra1, letra2;
+
+    if( b <= .1)
+            if( c == 1)
+               if ( d >= 4) {
+                    x = 0;
+               } else
+                    c = 5;
+
+
+
+    if( y == 2){
+
+    
+    x = 1;
+    x = 2 * 4 * 6;
+
+    //x = 2 * 2.2 * 'a';
+    //x = 2/3;
+
+    if(x == 1){
+        x = y + 1;
+    }else{
+        x = y + y;
+    }
+
+    while(x < 1){
+        x = x + 1;
+    }
+
+    do{
+        x = x + 1;
+    }while(x<1);
+
+    y = y + 4 + 7;
+
+    
+    if(x == 1){
+        
+    	float x;
+    	
+    	x = 1.1;
+    	
+    	if(x == 1){
+    		char x;
+    		
+    		x = 'a';
+    		
+    	}
+    	
+    }
+    
+    
+    a = 2;
+    a = 1;
+    a = 1.5;
+    a = 2/2;
+    a = 1 + 1;
+    
+    letra1 = 'a';
+    letra1 = letra2;
+    letra1 = 'w' / 'v';
+    letra1 = 'a' + 'a';
+    letra1 = 'b' * 'c' + 'e';
+
+    int y,z;
+    float h;float w,k;
+    char letra;
+    
+    
+    x = 1;
+    k = 1;
+    w = 5/x + y*8 + 5*7;
+    /** /** /*
+       teste &% 
+    **
+    */
+
+
+    do{
+        float x;
+        x = 1 + 1;
+        w = w + 1;
+	
+    }while  (y<10);
+
+
+    y = x;
+    
+    while (x>w*8) {
+       float y,a;
+        w = w +1;
+        y = x;
+    }
+
+    a = 0;
+    int p;
+
+    if (w == x) 
+    {
+        
+        p = 10;
+    
+
+	}else{
+        
+    }
+
+    if (w != x) 
+    {
+
+        p = 10;
+    
+
+	}
+
+    if (w != x) 
+    {
+
+        p = 10;
+    
+
+	}
+    
+
+}
+
+
