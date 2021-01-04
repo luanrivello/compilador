@@ -1,2 +1,2 @@
 # compilador
-compilador simples
+compilador
